@@ -1,16 +1,17 @@
-# news_app
+# News Mobile Application
 
-A new Flutter project.
+## Overview
+News App is an application that present list of news with its sources, and give user the ability to watch full article of this news from the data source by easily clicking it
+## Technologies
+- 1- http package to get data from api.
+- 2- url_launcher to open the full article in the browser.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### 1. Watch the list of all news
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/news_list.png" alt="news lis page" width="600">
+-
+### 2. read the full article of this a certain news
+ <img src="assets/news_details.png" alt="news details page" width="600">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
